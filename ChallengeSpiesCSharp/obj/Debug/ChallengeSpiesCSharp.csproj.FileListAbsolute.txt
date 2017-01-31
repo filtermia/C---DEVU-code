@@ -1,0 +1,6 @@
+C:\Users\andrews\Documents\Visual Studio 2015\ChallengeSpiesCSharp\ChallengeSpiesCSharp\bin\ChallengeSpiesCSharp.dll.config
+C:\Users\andrews\Documents\Visual Studio 2015\ChallengeSpiesCSharp\ChallengeSpiesCSharp\bin\ChallengeSpiesCSharp.dll
+C:\Users\andrews\Documents\Visual Studio 2015\ChallengeSpiesCSharp\ChallengeSpiesCSharp\bin\ChallengeSpiesCSharp.pdb
+C:\Users\andrews\Documents\Visual Studio 2015\ChallengeSpiesCSharp\ChallengeSpiesCSharp\obj\Debug\ChallengeSpiesCSharp.csprojResolveAssemblyReference.cache
+C:\Users\andrews\Documents\Visual Studio 2015\ChallengeSpiesCSharp\ChallengeSpiesCSharp\obj\Debug\ChallengeSpiesCSharp.dll
+C:\Users\andrews\Documents\Visual Studio 2015\ChallengeSpiesCSharp\ChallengeSpiesCSharp\obj\Debug\ChallengeSpiesCSharp.pdb
